@@ -30,3 +30,7 @@ ________________________________________________________________________________
 ![Video of the TimeTrack App](project2.gif)
 
 Here's a link to the application: ![Link to the TimeTrack App](https://uncctimetracker.herokuapp.com/)
+
+To access the page as a manager use:
+User Name: 1111
+Password: 1111
