@@ -1,8 +1,6 @@
-# UNCC Group Project 2: TimeTrack
+### TimeTrack
 ______________________________________________________________________________________________________________________
 
-### Overview
-______________________________________________________________________________________________________________________
 Full-stack application designed to track an employee's time punches and location.  It will also allow the manager to add and delete employees, along with monitoring hours worked for the month.
 
 Here's a link to the application: [Link to the TimeTrack App](https://uncctimetracker.herokuapp.com/)
