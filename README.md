@@ -5,7 +5,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________
 The overall concept of this project is to create an app that will track an employee time and location.  It will also allow the manager to add and delete employees, along with monitoring hours worked for the month.  
 
-Here's a link to the application: ![Link to the TimeTrack App](https://uncctimetracker.herokuapp.com/)
+Here's a link to the application: ![Link to the TimeTrack App(https://uncctimetracker.herokuapp.com/)]
 
 ![Video of the TimeTrack App](project2.gif)
 
