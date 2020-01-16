@@ -1,5 +1,4 @@
-### TimeTrack
-______________________________________________________________________________________________________________________
+# TimeTrack
 
 Full-stack application designed to track an employee's time punches and location.  It will also allow the manager to add and delete employees, along with monitoring hours worked for the month.
 
