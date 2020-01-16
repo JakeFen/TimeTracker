@@ -5,6 +5,17 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________
 The overall concept of this project is to create an app that will track an employee time and location.  It will also allow the manager to add and delete employees, along with monitoring hours worked for the month.  
 
+Here's a link to the application: ![Link to the TimeTrack App](https://uncctimetracker.herokuapp.com/)
+
+![Video of the TimeTrack App](project2.gif)
+
+
+### Getting Started 
+______________________________________________________________________________________________________________________
+
+To access the page as a manager use:
+User Name: 1111
+Password: 1111
 
 ### Technologies Used
 ______________________________________________________________________________________________________________________
@@ -22,15 +33,5 @@ ________________________________________________________________________________
 ### Contributors
 ______________________________________________________________________________________________________________________
 1. Jacob Fenwick
-1. Daniel Goldman
-1. Denise Middleton
-
-## TimeTrack App
-______________________________________________________________________________________________________________________
-![Video of the TimeTrack App](project2.gif)
-
-Here's a link to the application: ![Link to the TimeTrack App](https://uncctimetracker.herokuapp.com/)
-
-To access the page as a manager use:
-User Name: 1111
-Password: 1111
+2. Daniel Goldman
+3. Denise Middleton
